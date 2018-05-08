@@ -1,4 +1,4 @@
-//skrollr reduce function by darkxee
+// Reduce function skrollr by darkxee
 // origin http://prinzhorn.github.io/skrollr/
 
 function dzxParr(attr) {
@@ -12,7 +12,7 @@ function dzxParr(attr) {
       }
     }
 
-  };
+  }; 
 }
 
 var pa2 = new dzxParr({
